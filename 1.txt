@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello world
+=======
+My name is viktor
+>>>>>>> viktor
